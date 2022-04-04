@@ -1,4 +1,4 @@
-# CorrigirBugJavaFXnoVSCod
+# CorrigirBugJavaFXnoVSCode
 Ao utilizar o OpenJDK + JavaFX + VSCode, pode retornar os seguintes erros:
 
 Erro #1
